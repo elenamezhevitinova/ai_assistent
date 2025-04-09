@@ -2,7 +2,7 @@
 # Проект: "ИИ-ассистент для записи на приём в НМИЦ АГП"
 ссылка на проект - t.me/obstetgyn_bot
 
-![скриншоты приложения](https://github.com/user-attachments/assets/db440c3d-56fb-4db9-b63d-cd4f3d89a30c)
+![скриншот1](https://github.com/user-attachments/assets/5ba159e3-0803-4d21-89c3-56b335ce12f5)
 
 
 ## Описание проекта
